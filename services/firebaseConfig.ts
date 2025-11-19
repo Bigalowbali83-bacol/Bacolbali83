@@ -7,12 +7,12 @@ import { getFirestore } from "firebase/firestore";
 // Silakan ganti nilai di bawah ini dengan konfigurasi dari Firebase Console Anda.
 // Caranya: Buka Console -> Project Settings -> General -> Scroll ke bawah ke "Your apps" -> Config
 const firebaseConfig = {
-  apiKey: "AIzaSyCBiqs08gZcaPPaFJetc6otN2ZjJG63kvM",
-  authDomain: "gede8323.firebaseapp.com",
-  projectId: "gede8323",
-  storageBucket: "gede8323.firebasestorage.app",
-  messagingSenderId: "722158180612",
-  appId: "1:722158180612:web:3c921b67d6be8e2a275851"
+  apiKey: "AIzaSyB5ZbwYMr6M_fWZr3vqxivXE-G0yl_91O8",
+  authDomain: "bacolbali83.firebaseapp.com",
+  projectId: "bacolbali83",
+  storageBucket: "bacolbali83.firebasestorage.app",
+  messagingSenderId: "671038628318",
+  appId: "1:671038628318:web:c4accceabdb6e55346fd4f"
 };
 
 // Initialize Firebase
